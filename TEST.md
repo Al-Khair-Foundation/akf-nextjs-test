@@ -9,8 +9,8 @@ Implement filtering functionality for the todo list using search and status filt
 1. **Search Input**
 
    - Add a text input field to search todos by task name
-   - Implement debouncing (500ms) to prevent excessive API calls
    - Update URL search params with query parameter
+   - Make sure API calls are optimized
 
 2. **Status Dropdown**
    - Add a select dropdown with options:
